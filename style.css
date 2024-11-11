@@ -212,14 +212,7 @@ button {
 
 /* Media */
 
-@media (min-width: 400px) {
-
-  .input {
-    padding-right: 4rem;
-  }
-}
-
-@media (min-width: 425px) {
+@media (min-width: 500px) {
   .input {
     padding-right: 5rem;
     gap: 1.5rem;
