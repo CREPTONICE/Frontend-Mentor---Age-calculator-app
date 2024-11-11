@@ -214,16 +214,9 @@ button {
 /* Media */
 
 @media (min-width: 400px) {
-  .box {
-    padding: 2rem;
-  }
 
   .input {
-    padding-right: 5rem;
-  }
-
-  .calculate {
-    text-align: right;
+    padding-right: 4rem;
   }
 }
 
@@ -235,6 +228,10 @@ button {
 
   .input_label {
     font-size: 1rem;
+  }
+
+  .calculate {
+    text-align: right;
   }
 }
 
